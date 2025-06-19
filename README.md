@@ -11,8 +11,8 @@ This service implements:
 
 ## Technical Stack
 
-- Java 17
-- Spring Boot 3.3.0
+- Java 21
+- Spring Boot 3.5.0
 - Gradle
 - H2 Database (in-memory for demo, easily replaceable with PostgreSQL/MySQL)
 - JPA/Hibernate
